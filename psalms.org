@@ -1,5 +1,5 @@
 :HEADER:
-#+TITLE: THE PSALTER,OR PSALMS of DAVID
+#+TITLE: THE PSALTER, OR PSALMS of DAVID
 #+SUBTITLE: Pointed as they are to be sung or said in Churches
 #+DATE: 1662
 #+OPTIONS: toc:nil
