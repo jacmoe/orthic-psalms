@@ -3,3 +3,9 @@
 #+begin_quote
 Pointed as they are to be sung or said in Churches
 #+end_quote
+
+The source is an adaption of the 1762 printing of the /Book of Psalms/ from 1662 by John Baskerville written Charles Wohlers of Satucket Software and made available at the following address: http://justus.anglican.org/resources/bcp/1662/psalms.pdf
+
+The only thing changed is that the medial and long /s/ has been replaced by modern s to aid in reading, plus formatting fit for electronic viewing.
+
+This is meant to be used in conjunction with the Orthic Psalms reading books available here: https://orthic.shorthand.fun/psalms-pdfs and here: https://orthic.shorthand.fun/reporting-psalms
