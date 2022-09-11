@@ -15,17 +15,17 @@
 
 * THE FIRST DAY
 ** MORNING PRAYER
-*** PSALM 1 Beatus vir, qui non abiit
+*** PSALM 1 : Beatus vir, qui non abiit
 #+begin_verse
 BLESSED is the man that hath not walked in the counsel of the ungodly, nor stood in the way of sinners: and hath not sat in the seat of the scornful;
 2 But his delight is in the law of the Lord: and in his law will he exercise himself day and night.
 3 And he shall be like a tree planted by the water-side: that will bring forth his fruit in due season.
 4 His leaf also shall not wither: and look, whatsoever he doeth, it shall prosper.
 5 As for the ungodly, it is not so with them: but they are like the chaff, which the wind scattereth away from the face of the earth.
-6 Therefore the ungodly shall not be able to ſtand in the judgment: neither the sinners in the congregation of the righteous.
+6 Therefore the ungodly shall not be able to stand in the judgment: neither the sinners in the congregation of the righteous.
 7 But the Lord knoweth the way of the righteous: and the way of the ungodly shall perish.
 #+end_verse
-*** PSALM 2 Quare fremuerunt?
+*** PSALM 2 : Quare fremuerunt?
 #+begin_verse
 WHY do the heathen so furiously rage together: and why do the people imagine a vain thing?
 2 The kings of the earth stand up, and the rulers take counsel together: against the Lord, and against his Anointed.
@@ -40,7 +40,65 @@ WHY do the heathen so furiously rage together: and why do the people imagine a v
 11 Serve the Lord in fear: and rejoice unto him with reverence.
 12 Kiss the Son, lest he be angry, and so ye perish from the right way: if his wrath be kindled, (yea, but a little,) blessed are all they that put their trust in him.
 #+end_verse
+*** Psalm 3 : Domine, quid multiplicati?
+#+begin_verse
+LORD, how are they increased that trouble me: many are they that rise against me.
+2 Many one there be that say of my soul: There is no help for him in his God.
+3 But thou, O Lord, art my defender: thou art my worship, and the lifter up of my head.
+4 I did call upon the Lord with my voice: and he heard me out of his holy hill.
+5 I laid me down and slept, and rose up again: for the Lord sustained me.
+6 I will not be afraid for ten thousands of the people: that have set themselves against me round about.
+7 Up, Lord, and help me, O my God: for thou smitest all mine enemies upon the cheekbone; thou haſt broken the teeth of the ungodly.
+8 Salvation belongeth unto the Lord: and thy blessing is upon thy people
+#+end_verse
+*** Psalm 4 : Cum invocarem.
+#+begin_verse
+HEAR me when I call, O God of my righteousness: thou haſt set me at liberty when I was in trouble; have mercy upon me, and hearken unto my prayer.
+2 O ye sons of men, how long will ye blaspheme mine honour: and have such pleasure in vanity, and seek after leasing?
+3 Know this also, that the Lord hath chosen to himself the man that is godly: when I call upon the Lord, he will hear me.
+4 Stand in awe, and sin not: commune with your own heart, and in your chamber, and be still.
+5 Offer the sacrifice of righteousness: and put your trust in the Lord.
+6 There be many that say: Who will shew us any good?
+7 Lord, lift thou up: the light of thy countenance upon us.
+8 Thou hast put gladness in my heart: since the time that their corn and wine and oil increased.
+9 I will lay me down in peace, and take my rest: for it is thou, Lord, only, that makest me dwell in safety.
+#+end_verse
+*** Psalm 5 : Verba mea auribus.
+#+begin_verse
+PONDER my words, O Lord: consider my meditation
+2 O hearken thou unto the voice of my calling, my King, and my God: for unto thee will I make my prayer.
+3 My voice shalt thou hear betimes, O Lord: early in the morning will I direct my prayer unto thee, and will look up.
+4 For thou art the God that haſt no pleasure in wickedness: neither shall any devil dwell with thee.
+5 Such as be foolish shall not stand in thy sight: for thou hatest all of them that work vanity.
+6 Thou shalt destroy them that speak leasing: the Lord will abhor both the bloodthirsty and deceitful man.
+7 But as for me, I will come into thine house, even upon the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.
+8 Lead me, O Lord, in thy righteousness, because of mine enemies: make thy way plain before my face.
+9 For there is no faithfulness in his mouth: their inward parts are very wickedness.
+10 Their throat is an open sepulchre: they flatter with their tongue.
+11 Destroy thou them, O God; let them perish through their own imaginations: cast them out in the multitude of their ungodliness; for they have rebelled against thee.
+12 And let all them that put their trust in thee rejoice: they shall ever be giving of thanks, because thou defendest them; they that love thy Name shall be joyful in thee;
+13 For thou, Lord, wilt give thy blessing unto the righteous: and with thy favourable kindness wilt thou defend him as with a shield.
+#+end_verse
+** EVENING PRAYER
+*** Psalm 6 : Domine, one in furore.
+#+begin_verse
+O Lord, rebuke me not in thine indignation: neither chasten me in thy displeasure.
+2 Have mercy upon me, O Lord, for I am weak: O Lord, heal me, for my bones are vexed.
+3 My soul also is sore troubled: but, Lord, how long wilt thou punish me?
+4 Turn thee, O Lord, and deliver my soul: O save me for thy mercy’s sake.
+5 For in death no man remembereth thee: and who will give thee thanks in the pit?
+6 I am weary of my groaning; every night wash I my bed: and water my couch with my tears.
+7 My beauty is gone for very trouble: and worn away because of all mine enemies.
+8 Away from me, all ye that work vanity: for the Lord hath heard the voice of my weeping.
+9 The Lord hath heard my petition: the Lord will receive my prayer.
+10 All mine enemies shall be confounded, and sore vexed: they shall be turned back, and put to shame suddenly.
+#+end_verse
 
 # Local Variables:
 # flycheck-disabled-checkers: (proselint)
 # End:
+
+#  LocalWords:  pagebreak Beatus vir qui abiit doeth scattereth knoweth Quare
+#  LocalWords:  fremuerunt dwelleth Sion Domine multiplicati smitest belongeth
+#  LocalWords:  flycheck proselint invocarem makest Verba mea auribus hatest
+#  LocalWords:  defendest remembereth
