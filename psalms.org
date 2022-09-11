@@ -9,6 +9,7 @@
 #+LATEX: \setlength\parindent{0pt}
 #+SETUPFILE: ./jacmoe-latex-standard-setup.org
 :END:
+
 #+begin_export LaTeX
 \pagebreak
 #+end_export
@@ -48,12 +49,12 @@ LORD, how are they increased that trouble me: many are they that rise against me
 4 I did call upon the Lord with my voice: and he heard me out of his holy hill.
 5 I laid me down and slept, and rose up again: for the Lord sustained me.
 6 I will not be afraid for ten thousands of the people: that have set themselves against me round about.
-7 Up, Lord, and help me, O my God: for thou smitest all mine enemies upon the cheekbone; thou haſt broken the teeth of the ungodly.
+7 Up, Lord, and help me, O my God: for thou smitest all mine enemies upon the cheekbone; thou hast broken the teeth of the ungodly.
 8 Salvation belongeth unto the Lord: and thy blessing is upon thy people
 #+end_verse
 *** Psalm 4 : Cum invocarem.
 #+begin_verse
-HEAR me when I call, O God of my righteousness: thou haſt set me at liberty when I was in trouble; have mercy upon me, and hearken unto my prayer.
+HEAR me when I call, O God of my righteousness: thou hast set me at liberty when I was in trouble; have mercy upon me, and hearken unto my prayer.
 2 O ye sons of men, how long will ye blaspheme mine honour: and have such pleasure in vanity, and seek after leasing?
 3 Know this also, that the Lord hath chosen to himself the man that is godly: when I call upon the Lord, he will hear me.
 4 Stand in awe, and sin not: commune with your own heart, and in your chamber, and be still.
@@ -68,7 +69,7 @@ HEAR me when I call, O God of my righteousness: thou haſt set me at liberty whe
 PONDER my words, O Lord: consider my meditation
 2 O hearken thou unto the voice of my calling, my King, and my God: for unto thee will I make my prayer.
 3 My voice shalt thou hear betimes, O Lord: early in the morning will I direct my prayer unto thee, and will look up.
-4 For thou art the God that haſt no pleasure in wickedness: neither shall any devil dwell with thee.
+4 For thou art the God that hast no pleasure in wickedness: neither shall any devil dwell with thee.
 5 Such as be foolish shall not stand in thy sight: for thou hatest all of them that work vanity.
 6 Thou shalt destroy them that speak leasing: the Lord will abhor both the bloodthirsty and deceitful man.
 7 But as for me, I will come into thine house, even upon the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.
