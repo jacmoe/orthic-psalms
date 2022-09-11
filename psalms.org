@@ -15,14 +15,31 @@
 
 * THE FIRST DAY
 ** MORNING PRAYER
-*** PSALM 1
-1 Beatus vir, qui non abiit. BLESSED is the man that hath not walked in the counsel of the ungodly, nor stood in the way of sinners: and hath not sat in the seat of the scornful;
+*** PSALM 1 Beatus vir, qui non abiit
+#+begin_verse
+BLESSED is the man that hath not walked in the counsel of the ungodly, nor stood in the way of sinners: and hath not sat in the seat of the scornful;
 2 But his delight is in the law of the Lord: and in his law will he exercise himself day and night.
 3 And he shall be like a tree planted by the water-side: that will bring forth his fruit in due season.
 4 His leaf also shall not wither: and look, whatsoever he doeth, it shall prosper.
 5 As for the ungodly, it is not so with them: but they are like the chaff, which the wind scattereth away from the face of the earth.
 6 Therefore the ungodly shall not be able to ſtand in the judgment: neither the sinners in the congregation of the righteous.
 7 But the Lord knoweth the way of the righteous: and the way of the ungodly shall perish.
+#+end_verse
+*** PSALM 2 Quare fremuerunt?
+#+begin_verse
+WHY do the heathen so furiously rage together: and why do the people imagine a vain thing?
+2 The kings of the earth stand up, and the rulers take counsel together: against the Lord, and against his Anointed.
+3 Let us break their bonds asunder: and cast away their cords from us.
+4 He that dwelleth in heaven shall laugh them to scorn: the Lord shall have them in derision.
+5 Then shall he speak unto them in his wrath: and vex them in his sore displeasure.
+6 Yet I have set my King: upon my holy hill of Sion.
+7 I will preach the law, whereof the Lord hath said unto me: Thou art my Son, this day have I begotten thee.
+8 Desire of me, and I shall give thee the heathen for thine inheritance: and the utmost parts of the earth for thy possession.
+9 Thou shalt bruise them with a rod of iron: and break them in pieces like a potter’s vessel.
+10 Be wise now therefore, O ye kings: be learned, ye that are judges of the earth.
+11 Serve the Lord in fear: and rejoice unto him with reverence.
+12 Kiss the Son, lest he be angry, and so ye perish from the right way: if his wrath be kindled, (yea, but a little,) blessed are all they that put their trust in him.
+#+end_verse
 
 # Local Variables:
 # flycheck-disabled-checkers: (proselint)
