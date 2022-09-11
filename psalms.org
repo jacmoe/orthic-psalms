@@ -1,6 +1,7 @@
 :HEADER:
 #+TITLE: THE PSALTER, OR PSALMS of DAVID
 #+SUBTITLE: Pointed as they are to be sung or said in Churches
+#+AUTHOR: as printed by John Baskerville
 #+DATE: 1662
 #+OPTIONS: toc:nil
 #+OPTIONS: num:nil
