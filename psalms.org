@@ -9,11 +9,9 @@
 #+LATEX: \setlength\parindent{0pt}
 #+SETUPFILE: ./jacmoe-latex-standard-setup.org
 :END:
-
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-
 * THE FIRST DAY
 ** MORNING PRAYER
 *** PSALM 1 : Beatus vir, qui non abiit
