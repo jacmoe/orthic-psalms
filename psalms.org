@@ -3,8 +3,7 @@
 #+SUBTITLE: Pointed as they are to be sung or said in Churches
 #+AUTHOR: as printed by John Baskerville
 #+DATE: 1762
-#+OPTIONS: toc:nil
-#+OPTIONS: num:nil
+#+OPTIONS: whn:nil toc:3
 #+LANGUAGE: en
 #+OPTIONS: html-postamble:nil
 #+LATEX: \setlength\parindent{0pt}
